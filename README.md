@@ -3,4 +3,4 @@
 ## branching model
 
 1. Master Branch
-2. Dev Branch
+2. Dev Branch -- can be modified
