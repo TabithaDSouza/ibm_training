@@ -2,4 +2,5 @@
 
 ## branching model
 
-ibm training
+1. Master Branch
+2. Dev Branch
