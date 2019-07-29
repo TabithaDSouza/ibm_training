@@ -3,6 +3,5 @@
 ## branching model
 
 1. Master Branch
-2. Dev Branch
-master branch
-more changes
+2. Dev Branch -- can be modified
+modified in the browser
